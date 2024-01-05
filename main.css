@@ -1,0 +1,86 @@
+.Inukani{
+    margin : 0;
+    padding : 0 0 0 525px;
+    color: red;
+}
+ 
+.fixed {
+    color : white;
+    font-size : 2rem;
+     /* position: absolute; 
+    right : 40;
+    top : 50;
+    left : 30;
+    bottom: 50; */
+    margin : 0;
+    padding: 0 0 0 270px;
+}
+.entry {
+    color : white;
+}
+
+.inentry { 
+    text-align: center;
+    color : #e74c3c;
+}
+
+.FB {
+    display: block;
+    padding : 0 0px 0px 464px;
+}
+
+.author {
+    display: block;
+    padding : 0px 0px 0px 565px;
+    top : 10;
+    color : white;
+}
+.Imagine {
+    width: 200px;
+    display: block;
+    padding : 0px 120px 0 520px;
+}
+.GITHUB {
+    display : block;
+    padding : 0 0px 0px 502px;
+}
+.git {
+    color : #e74c3c
+}
+
+.VNOI {
+    display : block;
+    padding : 0 0px 0px 520px;
+}
+.vn {
+    color : #e74c3c
+}
+
+.codeforces {
+    margin  : 0;
+    display : block;
+    padding : 0 50px 0px 440px;
+}
+.code {
+    color : #e74c3c
+}
+.DISCORD {
+    display : block;
+    padding : 0 0px 0px 490px;
+}
+.dis {
+    color : #e74c3c
+}
+
+.code, .inentry, .dis, .git, .vn {
+    text-decoration: none;
+}
+html {
+    margin : 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align : auto;
+    text-transform: capitalize;
+    font-size : 30px;
+    background: url('https://media.discordapp.net/attachments/1090895809098289185/1191727550062403624/415687200_376387794760889_2217913059953921450_n.jpg?ex=65a67dc5&is=659408c5&hm=a3af72e28e840a077b3cfe16d6f8b5d49ac119e421a19fc319abb3a1585c2e71&=&format=webp&width=885&height=498');
+    background-size: cover;
+}
